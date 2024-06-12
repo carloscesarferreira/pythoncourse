@@ -48,14 +48,14 @@ else:
         r2 = "N/A"
             # if delta < 0 (negative) real roots are 'Not Available' (N/A)
     else:        
-        r1 = ( -b - m.sqrt(dt) ) / 2*a
+        r1 = ( -b - m.sqrt(dt) ) / (2*a)
         r1 = round(r1,2)
-        r2 = ( -b + m.sqrt(dt) ) / 2*a
+        r2 = ( -b + m.sqrt(dt) ) / (2*a)
         r2 = round(r2,2)
             # if delta >= 0 (non-negative) calculates the roots using Baskara's Formula.
 
-Xv = -b / 2*a
-Yv = -( b*b - 4*a*c ) / 4*a
+Xv = -b / (2*a)
+Yv = -( b*b - 4*a*c ) / (4*a)
     # calculates the vertex point (maximun or minimun)
 
 print("\n")
