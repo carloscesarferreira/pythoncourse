@@ -1,6 +1,6 @@
 This folder contains two datasets to be used in the two projects proposed. The dataset's description is as follows:
 
-FDNY Firehouse Listing
+**FDNY Firehouse Listing**
 
 This dataset contains detailed information on incidents handled by FDNY Fire (non-EMS) units and includes fire, medical and non-fire emergencies.
 The data is collected in the New York Fire Incident Reporting System (NYFIRS), structured by the FDNY to provide data to the National Fire Incident Reporting System (NFIRS).
@@ -11,7 +11,7 @@ Although NFIRS was explicitly designed to understand the nature and causes of fi
 Source: NYC OpenData at: https://data.cityofnewyork.us/Public-Safety/FDNY-Firehouse-Listing/hc8x-tcnd/about_data
 
 
-FAA Dataset
+**FAA Dataset**
 
 This dataset contains aviation data, which is information about the mechanical flight and aircraft industries. This information includes entry date, entry location date, event location time, location city name, etc.
 
