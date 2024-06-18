@@ -1,4 +1,4 @@
-This foçder contains the necessary material to develop two proposed projects: Datasets and Notebooks
+This folder contains this season's material. There are the classes' notebooks and the necessary material to develop two proposed projects:Datasets and Notebooks
 
 1. Datasets: Two datasets from FDNY and FAA are described as follows.
 
